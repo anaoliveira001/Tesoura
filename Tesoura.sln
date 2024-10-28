@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesoura", "Tesoura\Tesoura.csproj", "{D937ECB0-27F0-41C3-8296-8EE24939A130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D937ECB0-27F0-41C3-8296-8EE24939A130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D937ECB0-27F0-41C3-8296-8EE24939A130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D937ECB0-27F0-41C3-8296-8EE24939A130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D937ECB0-27F0-41C3-8296-8EE24939A130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED05928-7160-431B-A0DC-B9BABB5ADAE7}
+	EndGlobalSection
+EndGlobal
